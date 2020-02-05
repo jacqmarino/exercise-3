@@ -4,7 +4,7 @@
 
 <head>
 
-	<meta charset=.”utf-8”>
+	<meta charset=."utf-8">
 	<title>Flynn’s Retro Computers </title>
 	<!-- <style>
 	td,th {border:1px solid #CCC;}
@@ -17,7 +17,7 @@
 
 <h1>Cats</h1>
 
-<p>Cats are the spirit animal of the <a href=“http://www.w3.org”>internet.</a></p>
+<p>Cats are the spirit animal of the <a href="http://www.w3.org">internet.</a></p>
 
 <h3>Famous Cats </h3>
 <ul>
