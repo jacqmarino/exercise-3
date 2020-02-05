@@ -6,10 +6,10 @@
 
 	<meta charset=.”utf-8”>
 	<title>Flynn’s Retro Computers </title>
-	<style>
+	<!-- <style>
 	td,th {border:1px solid #CCC;}
 	table {border:1px solid black;}
-	</style>
+	</style> -->
 
 </head>
 
@@ -21,9 +21,9 @@
 
 <h3>Famous Cats </h3>
 <ul>
-<li>Felix</li>
-<li>Garfield</li>
-<li>Grumpy Cat</li>
+	<li>Felix</li>
+	<li>Garfield</li>
+	<li>Grumpy Cat</li>
 </ul>
 
 <h3>Cool House Cats </h3>
