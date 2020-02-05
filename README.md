@@ -29,7 +29,7 @@
 <h3>Cool House Cats </h3>
 
 <h5>Flynn</h5>
-<img src=“” alt=“Flynn”>
+<img src=“flynn.jpg” alt=“Flynn”>
 
 <h5>Quorra</h5>
 <img src=“quorra.jpg” alt=“Quorra”>
